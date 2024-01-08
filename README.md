@@ -2,5 +2,8 @@
 
 Ben Sherman here, This is a GitHub repository I created to work with multiple code branches.
 This project is a work in progress.
+My status
+> [Nominal]
 
-Thank you for reading this file.
+My activity
+> [in progress]
